@@ -1,2 +1,2 @@
 # Yahoo-Finance-Historical-Data-Downloader
-A simple python code to download certain stock's historical data from Yahoo Finance.
+This is made because Yahoo Finance limited the download option for stock's historical data to its subscribers only.
